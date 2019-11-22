@@ -38,4 +38,15 @@ $document.ready(function () {
 		}
 	}
 })
+
+
+$(function() {
+    $(".nl").show();
+    $(".nl-close").click( function(){
+    $(".nl").hide();
+        setTimeout(function(){
+            $(".nl").show();
+        }, 3000);
+    });
+});
     

@@ -301,3 +301,34 @@
   .navbar-nav>li>.dropdown-menu {
 	z-index: 9999;
 }
+
+/* NEWSLETTER PANEL */
+
+.nl {
+  background-color: #007ac187;
+  position: fixed;
+    width: 200px;
+    border-radius: 0.3em;
+    overflow: hidden;
+    -webkit-box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    z-index: 99;
+    top: 20px;
+    right: 20px;
+}
+
+.nl-wrapper-inner {
+  padding: 16px;
+  color: white;
+}
+
+.nl-close {
+  display: block;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
