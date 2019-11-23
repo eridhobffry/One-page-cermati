@@ -8672,6 +8672,10 @@ mark, .mark {
 	background: #191919;
 	fill: #191919;
 }
+.bg-gray-smoke {
+	background:  #e5e5e5;
+	fill: #e5e5e5;
+}
 
 .bg-gray-darkest {
 	background: #212121;

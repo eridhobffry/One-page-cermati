@@ -25,7 +25,6 @@ $document.ready(function () {
 
     /**
 	 * RD Navbar
-	 * @description Enables RD Navbar plugin
 	 */
 	if (plugins.rdNavbar.length) {
 		plugins.rdNavbar.RDNavbar({
@@ -46,7 +45,7 @@ $(function() {
     $(".nl").hide();
         setTimeout(function(){
             $(".nl").show();
-        }, 3000);
+        }, 600000);
     });
 });
     
