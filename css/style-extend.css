@@ -363,3 +363,7 @@
   background-color: #ff8000;
   color: inherit;
 }
+
+a {
+  color: blue;
+}
