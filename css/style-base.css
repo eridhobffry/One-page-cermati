@@ -568,54 +568,8 @@ mark,
 	color: #d9d9d9;
 }
 
-blockquote.quote .text-primary,
-.text-primary {
-	color: #ff4514;
-}
-
-a.text-primary:hover,
-a.text-primary:focus {
-	color: #e02f00;
-}
-
-blockquote.quote .text-success,
-.text-success {
-	color: #84c450;
-}
-
-a.text-success:hover,
-a.text-success:focus {
-	color: #6ba839;
-}
-
-blockquote.quote .text-info,
-.text-info {
-	color: #64aae1;
-}
-
-a.text-info:hover,
-a.text-info:focus {
-	color: #3993d9;
-}
-
-blockquote.quote .text-warning,
-.text-warning {
-	color: #F3A43D;
-}
-
-a.text-warning:hover,
-a.text-warning:focus {
-	color: #ee8d0f;
-}
-
-blockquote.quote .text-danger,
-.text-danger {
-	color: #e50a0a;
-}
-
-a.text-danger:hover,
-a.text-danger:focus {
-	color: #b40808;
+.text-white {
+	color: white;
 }
 
 .bg-primary {
