@@ -352,6 +352,7 @@
 
 .border-box {
   border: 1px solid;
+  height: 100%;
 }
 
 #input-email {
