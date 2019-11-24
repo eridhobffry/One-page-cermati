@@ -337,3 +337,13 @@
 .border-box {
   border: 1px solid;
 }
+
+#input-email {
+  width: 100%;
+  color: black;
+}
+
+#input-submit {
+  background-color: #ff8000;
+  color: inherit;
+}
